@@ -1,0 +1,35 @@
+{
+  "files": {
+    "static/js/0.3b37fd2c.chunk.js": "/stack-overflow-mockup/static/js/0.3b37fd2c.chunk.js",
+    "static/js/0.3b37fd2c.chunk.js.map": "/stack-overflow-mockup/static/js/0.3b37fd2c.chunk.js.map",
+    "main.css": "/stack-overflow-mockup/static/css/main.1bfb5331.chunk.css",
+    "main.js": "/stack-overflow-mockup/static/js/main.2f2dc122.chunk.js",
+    "main.js.map": "/stack-overflow-mockup/static/js/main.2f2dc122.chunk.js.map",
+    "runtime-main.js": "/stack-overflow-mockup/static/js/runtime-main.f4c1c71b.js",
+    "runtime-main.js.map": "/stack-overflow-mockup/static/js/runtime-main.f4c1c71b.js.map",
+    "static/js/3.638643aa.chunk.js": "/stack-overflow-mockup/static/js/3.638643aa.chunk.js",
+    "static/js/3.638643aa.chunk.js.map": "/stack-overflow-mockup/static/js/3.638643aa.chunk.js.map",
+    "static/js/4.82ca6ffc.chunk.js": "/stack-overflow-mockup/static/js/4.82ca6ffc.chunk.js",
+    "static/js/4.82ca6ffc.chunk.js.map": "/stack-overflow-mockup/static/js/4.82ca6ffc.chunk.js.map",
+    "static/css/5.ec231105.chunk.css": "/stack-overflow-mockup/static/css/5.ec231105.chunk.css",
+    "static/js/5.3081c875.chunk.js": "/stack-overflow-mockup/static/js/5.3081c875.chunk.js",
+    "static/js/5.3081c875.chunk.js.map": "/stack-overflow-mockup/static/js/5.3081c875.chunk.js.map",
+    "static/js/6.f1188d4e.chunk.js": "/stack-overflow-mockup/static/js/6.f1188d4e.chunk.js",
+    "static/js/6.f1188d4e.chunk.js.map": "/stack-overflow-mockup/static/js/6.f1188d4e.chunk.js.map",
+    "static/js/7.92ab032d.chunk.js": "/stack-overflow-mockup/static/js/7.92ab032d.chunk.js",
+    "static/js/7.92ab032d.chunk.js.map": "/stack-overflow-mockup/static/js/7.92ab032d.chunk.js.map",
+    "static/js/8.27fc3528.chunk.js": "/stack-overflow-mockup/static/js/8.27fc3528.chunk.js",
+    "static/js/8.27fc3528.chunk.js.map": "/stack-overflow-mockup/static/js/8.27fc3528.chunk.js.map",
+    "index.html": "/stack-overflow-mockup/index.html",
+    "static/css/5.ec231105.chunk.css.map": "/stack-overflow-mockup/static/css/5.ec231105.chunk.css.map",
+    "static/css/main.1bfb5331.chunk.css.map": "/stack-overflow-mockup/static/css/main.1bfb5331.chunk.css.map",
+    "static/js/0.3b37fd2c.chunk.js.LICENSE.txt": "/stack-overflow-mockup/static/js/0.3b37fd2c.chunk.js.LICENSE.txt",
+    "static/js/4.82ca6ffc.chunk.js.LICENSE.txt": "/stack-overflow-mockup/static/js/4.82ca6ffc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4c1c71b.js",
+    "static/js/4.82ca6ffc.chunk.js",
+    "static/css/main.1bfb5331.chunk.css",
+    "static/js/main.2f2dc122.chunk.js"
+  ]
+}
