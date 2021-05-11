@@ -27,6 +27,11 @@ const Login = (props) => {
             props.history.push('/questions')
         },
     });
+
+    const canBeSubmitted = () => {
+        return formik.values.email.trim() && formik.values.password;
+    }
+
     return (
         <div className='login'>
             <Card className='login-card'>
@@ -41,6 +46,7 @@ const Login = (props) => {
                         onChange={formik.handleChange}
                         error={formik.touched.email && Boolean(formik.errors.email)}
                         helperText={formik.touched.email && formik.errors.email}
+                        required
                     /><br />
                     <TextField
                         className='input-field'
@@ -52,8 +58,9 @@ const Login = (props) => {
                         onChange={formik.handleChange}
                         error={formik.touched.password && Boolean(formik.errors.password)}
                         helperText={formik.touched.password && formik.errors.password}
+                        required
                     /><br />
-                    <Button className='m-1' color="primary" variant="contained" type="submit">
+                    <Button className='m-1' color="primary" variant="contained" type="submit" disabled={!canBeSubmitted()}>
                         Login
                     </Button>
                 </form>

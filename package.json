@@ -1,7 +1,6 @@
 {
   "name": "stack-overflow-mockup",
   "version": "0.1.0",
-  "homepage": "http://kdjadeja21.github.io/stack-overflow-mockup/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
